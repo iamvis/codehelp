@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "K.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled",
+    "notebook.consolidatedRunButton": true,
+    "problems.showCurrentInStatus": true,
+    "problems.sortOrder": "position",
+    "window.autoDetectColorScheme": false,
+    "debug.onTaskErrors": "showErrors"
+}
