@@ -11,25 +11,25 @@ class Node{
     }
 };
 
-int getLength(Node* head){
-    Node* temp = head;
-    int count=0;
-    while(temp !=NULL){
-        temp = temp->next;
-        count++;
-    }
-    return count;
-}
+// int getLength(Node* head){
+//     Node* temp = head;
+//     int count=0;
+//     while(temp !=NULL){
+//         temp = temp->next;
+//         count++;
+//     }
+//     return count;
+// }
 
 ///print function
 
-void print (Node * head){
-    Node* temp =head;
-    while(temp!=NULL){
-        cout<<temp->data<<"->";
-      temp= temp->next;
-    }
-}
+// void print (Node * head){
+//     Node* temp =head;
+//     while(temp!=NULL){
+//         cout<<temp->data<<"->";
+//       temp= temp->next;
+//     }
+// }
 
 //reverse fn
 Node* reverse(Node* head){
